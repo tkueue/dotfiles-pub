@@ -1,5 +1,5 @@
 if status is-interactive
-  set PATH /home/pina/.yarn/bin $PATH
+  set PATH $HOME/.yarn/bin $PATH
 end
 
 #git aliases
